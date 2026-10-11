@@ -1,0 +1,6 @@
+{
+  "invalidLogin": {
+    "username": "Admin",
+    "expectedMessage": "Invalid credentials"
+  }
+}

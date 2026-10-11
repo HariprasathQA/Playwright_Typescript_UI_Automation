@@ -1,0 +1,20 @@
+
+# Dependencies
+node_modules/
+
+# Playwright generated artifacts
+playwright-report/
+test-results/
+blob-report/
+playwright/.cache/
+playwright/.auth/
+
+# Test and coverage artifacts
+coverage/
+*.png
+*.webm
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
